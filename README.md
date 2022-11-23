@@ -1,4 +1,4 @@
-[![MasterHead](https://kinsta.com/wp-content/uploads/2021/11/back-end-developer-1024x512.png)]
+![MasterHead](https://mobulous.s3.ap-south-1.amazonaws.com/Web/images/mobile/Header/Hire-Developer-7.png)
 <h1 align="center">Hi 👋, I'm Mohd Awresh</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
