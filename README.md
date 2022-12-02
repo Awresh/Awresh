@@ -12,11 +12,9 @@
 
 
 
-- 🌱 I’m currently learning **Full Stack Web Development Java ,Sql,**
+
 
 - 👨‍💻 All of my projects are available at [https://awresh.github.io/](https://awresh.github.io/)
-
-- 💬 Ask me about **Ask me about Javascript, Java, HTML, CSS, DSA**
 
 - 📫 How to reach me **Mo.awresh6205@gmail.com**
 
