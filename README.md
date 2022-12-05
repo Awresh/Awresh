@@ -1,11 +1,8 @@
 
+
 <h1 align="center">Hi 👋, I'm Mohd Awresh</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-
-
-<img align="right" alt="Coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-doing-programming-3454631-2918520.png">
-
-<p dir="auto" style="top=20">I am a Java developer who dreams in Java and has a solid grasp on web services development and complex application development. I am excited to continue my career by joining a company made up of driven professionals who value creative problem-solving..</p>
+<img align="right" alt="Coding" width="400" src="https://mobulous.s3.ap-south-1.amazonaws.com/Web/images/mobile/Header/Hire-Developer-7.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awresh&label=Profile%20views&color=0e75b6&style=flat" alt="awresh" /></p>
 
