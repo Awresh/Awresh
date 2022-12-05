@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-doing-programming-3454631-2918520.png">
 
-<p dir="auto" style="top=20">Experienced Java Developer that dreams in Java and has a solid grasp on web services development and complex application development. I am excited to continue my career by joining a company composed of driven professionals who value creative problem solving and strive to revolutionize Centria's healthcare.</p>
+<p dir="auto" style="top=20">I am a Java developer who dreams in Java and has a solid grasp on web services development and complex application development. I am excited to continue my career by joining a company made up of driven professionals who value creative problem-solving..</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awresh&label=Profile%20views&color=0e75b6&style=flat" alt="awresh" /></p>
 
