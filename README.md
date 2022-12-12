@@ -2,6 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Mohd Awresh</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
+<p>Strong in design and integration with intuitive
+problem-solving skills. Ability to translate business
+requirements into technical solutions. Looking to start
+career as a JAVA Back-end Developer in a reputed firm
+driven by technology</p>
 <img align="right" alt="Coding" width="400" src="https://mobulous.s3.ap-south-1.amazonaws.com/Web/images/mobile/Header/Hire-Developer-7.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awresh&label=Profile%20views&color=0e75b6&style=flat" alt="awresh" /></p>
