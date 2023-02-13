@@ -17,7 +17,7 @@ driven by technology</p>
 
 - 📫 How to reach me **Mo.awresh6205@gmail.com**
 
-- 📄 Know about my experiences [https://awresh.github.io/Mohd_Awresh_CV_Resume.pdf](https://awresh.github.io/Mohd_Awresh_CV_Resume.pdf)
+- 📄 Know about my experiences [https://awresh.github.io/Mohd_Awresh_Resume.pdf](https://awresh.github.io/Mohd_Awresh_CV_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
